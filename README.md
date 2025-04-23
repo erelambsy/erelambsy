@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:66d9e8,100:eebefa&height=350&section=header&text=erelambsy's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&fontAlignY=41&desc=Softwere%20learner,%20Former%20teacher&rotate=0)
 
 <h3 align="center">
-Hello !  Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsteven-yn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</h3>
+Hello !  Welcome to My Repositories &nbsp; 
 
 ---
 ### My email 
