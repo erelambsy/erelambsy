@@ -22,7 +22,7 @@ Hello !  Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm.com
 
 <div>
 <img src="https://www.creativefabrica.com/wp-content/uploads/2019/02/Piano-keyboard-icon-vector-by-Hoeda80-580x386.jpg"with=300 />
-<img src="https://cdn-icons-png.flaticon.com/512/3010/3010898.png"with=300/>
+<img src="https://cdn-icons-png.flaticon.com/512/3010/3010898.png"with=100/>
 
 <br>
 <br>
