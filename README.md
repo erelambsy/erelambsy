@@ -61,5 +61,5 @@ Hello !  Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm.com
 > **email** 　　 lambsy@naver.com \
 > **blog**&nbsp;&nbsp; 　　  [https://blog.naver.com/lambsy]
 
-![lambsy's GitHub stats]
+
 
