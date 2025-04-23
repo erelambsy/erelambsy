@@ -55,7 +55,7 @@ Hello !  Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm.com
 
 ### 🔖 More
 
-[Core Value: Teamwork, Purpose](https://whistle.to/tendency/43ae1836-b358-43b4-85ab-b826f91dd95c)
+
 
 > **portfolio**　[Notion Portfolio]) \
 > **email** 　　 lambsy@naver.com \
